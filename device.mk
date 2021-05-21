@@ -417,6 +417,7 @@ PRODUCT_PACKAGES += \
     FrameworksResTarget \
     FrameworksResTopaz \
     NotchBarKiller \
+    SettingsProviderResTopaz \
     SettingsResTopaz \
     SettingsOverlayM7G \
     SettingsOverlayM7N \
